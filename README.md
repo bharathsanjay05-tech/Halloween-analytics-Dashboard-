@@ -1,10 +1,12 @@
-# 🎃 Halloween Visitor Analysis & Forecasting Dashboard
 ### 🎃 Halloween Visitor Analysis & Forecasting Dashboard
 
-The **Halloween Visitor Analysis & Forecasting Dashboard** is an interactive **Tableau Business Intelligence project** designed to analyze visitor patterns across different years and time periods. It identifies peak visitor times, compares yearly visitor trends, and provides future visitor forecasting using historical data. The dashboard includes interactive **Year and Time filters** for dynamic analysis.
+The **Halloween Visitor Analysis & Forecasting Dashboard** is an interactive **Tableau Business Intelligence project** developed to analyze visitor patterns across different years and time periods. The dashboard transforms visitor data into clear and engaging visualizations.
 
-The project demonstrates skills in **Tableau, data visualization, data analysis, forecasting, trend analysis, and dashboard development**. Key insights include increasing visitor traffic during the evening, a peak visitor time of **8:15 PM**, and the highest yearly visitor count occurring in **2011 with 2,843 visitors**. This analysis can support **crowd management, resource allocation, event planning, and future capacity planning**.
+The project analyzes **visitor trends by time and year**, helping identify peak visitor periods and compare yearly performance. It includes visualizations such as visitor patterns by time, total visitors by year, and year-wise visitor strength.
 
+The dashboard also includes **future visitor forecasting**, using historical trends to estimate future visitor numbers. Interactive **Year and Time filters** allow users to explore specific periods and understand changes in visitor activity.
+
+This project demonstrates practical skills in **Tableau, Data Visualization, Data Analysis, Forecasting, Trend Analysis, and Business Intelligence**. Key findings include a peak visitor time of **8:15 PM** and the highest yearly visitor count of **2,843 in 2011**.
 
 
 ---
