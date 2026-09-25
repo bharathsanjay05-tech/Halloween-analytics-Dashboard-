@@ -25,7 +25,7 @@ The project transforms visitor data into interactive visualizations that can hel
 
 ## 🖥️ Dashboard Preview
 
-![Halloween Visitor Analysis Dashboard](Dashboard/Halloween_Visitor_Dashboard.png)
+![Halloween Visitor Analysis Dashboard]()
 
 ---
 
