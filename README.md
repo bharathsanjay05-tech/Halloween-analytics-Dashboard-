@@ -19,19 +19,5 @@ This project demonstrates practical skills in **Tableau, Data Visualization, Dat
 
 
 
-## 📁 Project Structure
-
-```text
-Halloween-Visitor-Analysis/
-│
-├── Dataset/
-│   └── Halloween_Visitors.csv
-│
-├── Tableau/
-│   └── Halloween_Visitor_Analysis.twbx
-│
-├── Dashboard/
-│   └── Halloween_Visitor_Dashboard.png
-│
-└── README.md
+## 📁 DASHBOARD LINK - https://public.tableau.com/app/profile/bharathsanjay.a/viz/HALLOWEENDASHBOARD_17908274441840/Dashboard1?publish=yes
 
